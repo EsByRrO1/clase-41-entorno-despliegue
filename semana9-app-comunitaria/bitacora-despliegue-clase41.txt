@@ -1,6 +1,6 @@
 BITÁCORA DE DESPLIEGUE - CLASE 41
 
-Nombre: Juan Manuel
+Nombre: EsByRrO
 Fecha: 12/06/2026
 Entorno usado: GitHub Codespaces
 
