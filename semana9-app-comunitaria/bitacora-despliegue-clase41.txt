@@ -1,0 +1,45 @@
+BITÁCORA DE DESPLIEGUE - CLASE 41
+
+Nombre: Juan Manuel
+Fecha: 12/06/2026
+Entorno usado: GitHub Codespaces
+
+1. ¿Qué significa desplegar o levantar una aplicación?
+   Respuesta:
+   Significa iniciar una aplicación para que pueda ejecutarse y recibir solicitudes de los usuarios.
+
+2. ¿Qué diferencia hay entre código escrito y aplicación ejecutándose?
+   Respuesta:
+   El código escrito es el conjunto de instrucciones guardadas en archivos. La aplicación ejecutándose es ese código funcionando activamente en un servidor o computadora.
+
+3. ¿Qué variable de entorno se usó para definir el puerto?
+   Respuesta:
+   PORT
+
+4. ¿Qué puerto se usó?
+   Respuesta:
+   3000
+
+5. ¿Qué rutas fueron verificadas?
+   Respuesta:
+   / y /estado
+
+6. ¿Qué respuesta entregó la ruta /estado?
+   Respuesta:
+   Entregó un mensaje indicando que la aplicación estaba funcionando correctamente, por ejemplo: {"estado":"ok"}.
+
+7. ¿Qué ocurrió al consultar una ruta inexistente?
+   Respuesta:
+   El servidor respondió con un error indicando que la ruta no existe (404 Not Found).
+
+8. ¿Por qué el archivo .env no debe subirse a GitHub?
+   Respuesta:
+   Porque puede contener información sensible como contraseñas, claves de acceso o configuraciones privadas.
+
+9. ¿Qué aprendí sobre disponibilidad de una aplicación?
+   Respuesta:
+   Que una aplicación debe estar ejecutándose y accesible para que los usuarios puedan utilizarla en cualquier momento.
+
+10. ¿Qué debo revisar antes de decir que una aplicación funciona?
+    Respuesta:
+    Debo verificar que el servidor esté ejecutándose, que las rutas respondan correctamente y que no existan errores en la consola.
